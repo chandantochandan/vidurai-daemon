@@ -5,7 +5,7 @@ Persistent context awareness • Human-AI mediation • Strategic forgetting in 
 
 ---
 
-## 🧠 What Is the Vidurai Daemon?
+## What Is the Vidurai Daemon?
 
 The Vidurai Daemon is the **live intelligence layer** of the Vidurai ecosystem —
 a lightweight, local-first background service that continuously observes your workflow, understands what matters, filters noise, compresses signals, and prepares clean contextual insights for any AI assistant you use.
@@ -315,8 +315,3 @@ Use freely. Improve openly. Build wisely.
 
 ---
 
-## 🙏 Credits
-
-**Co-Authored-By:** Chandan <yvidurai@gmail.com>
-
-**विस्मृति भी विद्या है** - The art of knowing what to remember, and what to forget. 🎭
